@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{AE87FD3C-B509-4F92-6F6A-56E5C77349C0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LightIntensity.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="52" Column="39" />
+      <File FileName="Assets/LightIntensity.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tiles" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fac49caf-a034-4617-9fd3-ef8eddb5441d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
